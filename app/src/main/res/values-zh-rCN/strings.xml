@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">网页展板</string>
+    <string name="homepage">主页</string>
+    <string name="pressbackagaintoexit">再按一次返回退出</string>
+    <string name="autorefreshstart">开始定时刷新</string>
+    <string name="autorefreshinterval">定时刷新时间间隔</string>
+    <string name="hint_autorefreshinterval">单位秒，留空禁用</string>
+    <string name="hint_homeurl">http://... 或 https://...</string>
+    <string name="url_index">file:///android_asset/index_zhCN.html</string>
+</resources>

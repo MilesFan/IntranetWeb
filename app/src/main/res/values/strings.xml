@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Web Showboard</string>
+    <string name="homepage">home page</string>
+    <string name="pressbackagaintoexit">press Back again to exit</string>
+    <string name="autorefreshstart">auto-refresh starts</string>
+    <string name="autorefreshinterval">auto-refresh interval</string>
+    <string name="hint_autorefreshinterval">in seconds, empty to disable</string>
+    <string name="hint_homeurl">http://... or https://...</string>
+    <string name="url_index">file:///android_asset/index.html</string>
+</resources>
